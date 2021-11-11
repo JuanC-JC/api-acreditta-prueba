@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "deploy": "node server.js",
     "start": "nodemon server.js"
   },
   "author": "Juan Camilo Ibañez <juancchaparro97@gmail.com>",
